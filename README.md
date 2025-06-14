@@ -346,9 +346,14 @@ FREDDIE_MAC_API_KEY=your-freddie-mac-api-key
 - **Documentation**: Update docs for new features
 
 ### Branch Naming
-- `feature/user-authentication`
-- `bugfix/calculator-accuracy`
-- `hotfix/security-vulnerability`
+- **main**: Production-ready code
+- **develop**: Integration branch for development
+- **feature/feature-name**: Feature branches
+- **hotfix/issue-name**: Urgent fixes\
+  \**for example**:
+    - `feature/user-authentication`
+    - `bugfix/calculator-accuracy`
+    - `hotfix/security-vulnerability`
 
 ## 📚 Additional Resources
 
